@@ -1,4 +1,4 @@
-hackathon-suriname-2013
+hackathon-suriname-2014
 =======================
 
 Hackathon
